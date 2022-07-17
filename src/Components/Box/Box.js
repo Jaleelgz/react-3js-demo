@@ -1,7 +1,7 @@
 import { useLoader } from "@react-three/fiber";
 import React from "react";
 import { TextureLoader } from "three";
-import BrickTexture from "../../Images/brick.jpg";
+import BrickTexture from "../../Images/weds.jpg";
 
 const Box = () => {
   const brickBox = useLoader(TextureLoader, BrickTexture);
