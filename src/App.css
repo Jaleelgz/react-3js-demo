@@ -13,19 +13,55 @@
   }
 }
 
-.App-header {
+body {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+}
+
+.App-header {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.txtContainer {
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 750px) {
+  .canvasContainer {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.canvasContainer {
+  margin-top: 30px;
+}
+
+.headTxt {
+  margin: 0px;
+  padding-top: 10px;
+}
+
+.subTxt {
+  margin: 0;
+  padding: 0;
+}
+
+.canvas {
+  height: 60vh !important;
+  width: 100%;
+  border: 1px #fff solid;
+  border-radius: 5px;
+  margin: 5px;
+  /* background-color: rgb(211, 62, 62); */
 }
 
 @keyframes App-logo-spin {
