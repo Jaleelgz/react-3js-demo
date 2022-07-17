@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-3js-demo/static/css/main.3d79dfd8.css",
+    "main.js": "/react-3js-demo/static/js/main.bfbb9e8a.js",
+    "static/js/787.1ebf91fd.chunk.js": "/react-3js-demo/static/js/787.1ebf91fd.chunk.js",
+    "static/media/brick.jpg": "/react-3js-demo/static/media/brick.0bfee2e9093f98bf80c9.jpg",
+    "index.html": "/react-3js-demo/index.html",
+    "main.3d79dfd8.css.map": "/react-3js-demo/static/css/main.3d79dfd8.css.map",
+    "main.bfbb9e8a.js.map": "/react-3js-demo/static/js/main.bfbb9e8a.js.map",
+    "787.1ebf91fd.chunk.js.map": "/react-3js-demo/static/js/787.1ebf91fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d79dfd8.css",
+    "static/js/main.bfbb9e8a.js"
+  ]
+}
